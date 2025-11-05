@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.intergient.com	TRUE	/	FALSE	1999999999	__cf_bm	OZX2O..YDj8BoB74Cb9snyiIbrqnkd9A1IkRXdno3Jo-1762301335-1.0.1.1-ARLrb1j2AuDUj4NQIfQmo0x.ijzUl3FE0iJ3NBuaA9vm7Mp8xx3mR1RqDO44RuMjs5CffcbanEPOIL_Q93ZnQOLKAI6466ccjTLFxBosLHg
+cdn.intergient.com	TRUE	/	FALSE	1999999999	SameSite	None
+
